@@ -15,18 +15,22 @@ body {
     max-width: 50%;
     width: 400px;
     text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1 {
     color: #1f487e;
+    font-family: 'Roboto', sans-serif;
 }
 
 .form-label {
     color: #1f487e;
+    font-family: 'Roboto', sans-serif;
 }
 
 .btn-primary {
     background-color: #1f487e;
+    font-family: 'Roboto', sans-serif;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -36,6 +40,7 @@ h1 {
 
 .btn-primary:hover {
     background-color: #15325a;
+    font-family: 'Roboto', sans-serif;
 }
 
 .table {
